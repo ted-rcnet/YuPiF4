@@ -26,3 +26,4 @@ Le développement de la FC YuPiF4 est conçu pour la course de FPV Racing avec u
 - SWD Port
 
 Site http://www.rcnet.com
+![YuPiF4](images/pcb1.jpg)
