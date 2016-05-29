@@ -1,6 +1,8 @@
 # YuPiF4
 La YuPiF4 est un contrôleur de vol à base de STM32 F4, la FC est conçu pour fonctionner avec RaceFlight
 
+![YuPiF4](images/PreYupif4.png)
+
 Le développement de la FC YuPiF4 est conçu la course de FPV Racing avec un complément d'évolution sur le principe de module stackable.
 
 - Format standard 36x36
