@@ -26,6 +26,7 @@ Le développement de la FC YuPiF4 est conçu pour la course de FPV Racing avec u
 - Buzzer
 - SWD Port
 
+![YuPiF4](images/YuP.jpg)
 Site http://www.rcnet.com
 Site http://www.yupif4.com
 ![YuPiF4](images/pre_yupV0.2.jpg)
